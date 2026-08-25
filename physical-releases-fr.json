@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "fr-28-jours-plus-tard-4k-steelbook-2026-09-02",
+    "title": "28 Jours plus tard",
+    "releaseDate": "2026-09-02",
+    "format": "Steelbook",
+    "country": "FR",
+    "edition": "Steelbook 4K UHD",
+    "publisher": "Sony Pictures"
+  },
+  {
+    "id": "fr-michael-4k-steelbook-2026-09-02",
+    "title": "Michael",
+    "releaseDate": "2026-09-02",
+    "format": "Steelbook",
+    "country": "FR",
+    "edition": "Steelbook 4K UHD + Blu-ray",
+    "publisher": "Universal Pictures"
+  },
+  {
+    "id": "fr-diable-prada-2-4k-2026-09-02",
+    "title": "Le Diable s'habille en Prada 2",
+    "releaseDate": "2026-09-02",
+    "format": "4K UHD",
+    "country": "FR",
+    "edition": "4K UHD + Blu-ray",
+    "publisher": "20th Century Studios"
+  },
+  {
+    "id": "fr-barbare-4k-steelbook-2026-09-09",
+    "title": "Barbare",
+    "releaseDate": "2026-09-09",
+    "format": "Steelbook",
+    "country": "FR",
+    "edition": "Steelbook 4K UHD + Blu-ray",
+    "publisher": "20th Century Studios"
+  },
+  {
+    "id": "fr-pour-une-poignee-de-dollars-4k-steelbook-2026-09-09",
+    "title": "Pour une poignée de dollars",
+    "releaseDate": "2026-09-09",
+    "format": "Steelbook",
+    "country": "FR",
+    "edition": "Steelbook 4K UHD",
+    "publisher": "ESC Editions"
+  }
+]
